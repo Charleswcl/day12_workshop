@@ -13,8 +13,9 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>day12_workshop</name>
 	<description>Day 12 lecture workshop project</description>
+	<packaging>jar</packaging>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>19</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
